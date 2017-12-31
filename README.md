@@ -11,8 +11,8 @@
 # Notification
 
 * The parameters in main.py is fitted for my phone,
-so they may not work very well for you phone,
-Sslight adjuestment may beneeded.
+so they may not work well for you phone,
+Slight adjuestment may be needed.
 
 * Adjustment Suggestions: TODO
 
